@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Pentest Notes
+title: Test
 ---
 
 # Test
