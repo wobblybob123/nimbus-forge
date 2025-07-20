@@ -3,6 +3,6 @@ layout: default
 title: Pentest Notes
 ---
 
-# Pentesting Notes
+# Test
 
 - [TryHackMe Notes](thm.md)
